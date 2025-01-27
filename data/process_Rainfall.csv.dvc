@@ -1,0 +1,5 @@
+outs:
+- md5: eb83d248b1146aacb516685ee914b8f4
+  size: 20443
+  hash: md5
+  path: process_Rainfall.csv
