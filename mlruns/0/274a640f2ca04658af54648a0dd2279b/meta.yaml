@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MTECH-BITS-PILANI/SEM-3/MLOPS/Repository/MLFlow-Sample/mlruns/0/274a640f2ca04658af54648a0dd2279b/artifacts
+end_time: 1737940834966
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 274a640f2ca04658af54648a0dd2279b
+run_name: DecisionTree
+run_uuid: 274a640f2ca04658af54648a0dd2279b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737940825557
+status: 3
+tags: []
+user_id: astro

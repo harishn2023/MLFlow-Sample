@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MTECH-BITS-PILANI/SEM-3/MLOPS/Repository/MLFlow-Sample/mlruns/0/a868c3ad34e240849d8be030aca80d6b/artifacts
+end_time: 1737940844835
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a868c3ad34e240849d8be030aca80d6b
+run_name: RandomForest
+run_uuid: a868c3ad34e240849d8be030aca80d6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737940834979
+status: 3
+tags: []
+user_id: astro

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MTECH-BITS-PILANI/SEM-3/MLOPS/Repository/MLFlow-Sample/mlruns/0/ea5f65ddb62740e79b13d59e6a27af21/artifacts
+end_time: 1737940825542
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ea5f65ddb62740e79b13d59e6a27af21
+run_name: LinearRegression
+run_uuid: ea5f65ddb62740e79b13d59e6a27af21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737940813450
+status: 3
+tags: []
+user_id: astro
